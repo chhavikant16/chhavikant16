@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @chhavikant16
-- 👀 I’m interested in Cybersecurity, web development and app development 
-- 🌱 I’m currently learning C and HTML 
-- 💞️ I’m looking to collaborate on web development projects 
+- 👋 Hi, I’m @chhavikant1
+- 🌱 I’m currently learning C++ and FSWD. 
+- 💞️ I’m looking to collaborate on beginner friendly projects of any language. 
 - 📫 reach me at akshatm907@gmail.com! 
 
 <!---
